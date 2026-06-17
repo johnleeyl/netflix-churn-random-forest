@@ -6,7 +6,7 @@ This project builds a machine learning model to predict whether a Netflix custom
 The goal is to help understand key drivers of churn so businesses can improve customer retention strategies.
 
 📂 Dataset
-
+https://www.kaggle.com/datasets/abdulwadood11220/netflix-customer-churn-dataset
 The dataset contains 5,000 customers with the following features:
 
 Demographics: age, gender, region
